@@ -57,11 +57,11 @@ if(isset($_SESSION) && !empty($_SESSION)){
                 <div id="img4">
                 <div id="img5">
                     <div class="slider-content">
-                        <img href="C:\Users\33614\Desktop\Galeriedart\image\pagecouverture.jpg">
-                        <img href="C:\Users\33614\Desktop\Galeriedart\image\pagecouverture.jpg"> 
-                        <img href="C:\Users\33614\Desktop\Galeriedart\image\pagecouverture.jpg"> 
-                        <img href="C:\Users\33614\Desktop\Galeriedart\image\pagecouverture.jpg">
-                        <img href="C:\Users\33614\Desktop\Galeriedart\image\pagecouverture.jpg">
+                        <img src=".\image\pagecouverture.jpg">
+                        <img src=".\image\apm-1080x675.jpg">
+                        <img src=".\image\p1.jpg"> 
+                        <img src="">
+                        <img src="">
                     </div>
                 </div>
                 </div>
@@ -77,6 +77,10 @@ if(isset($_SESSION) && !empty($_SESSION)){
         <a href="#img5"></a>
         </div>
     </div>
+
+    <div class="presentation">
+        <img src=".\image\P27339948D4730353G.webp">
+
 
 
 

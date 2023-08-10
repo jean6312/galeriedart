@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'poppins', sans-serif;
     scroll-behavior: smooth;
 }
 
@@ -14,7 +13,6 @@ p {
 }
 
 header {
-    position: fixed;
     top: 0%;
     left: 0%;
     width: 100%;
@@ -59,13 +57,13 @@ header {
   .slider {
     width: 800px;
     position: relative;
-    margin: 100px;
-    MARGIN-LEFT: 225px;
+    margin-left: 26px;
+    margin-top: 1px;
   }
   
   .slider-viewport {
-    width: 800px;
-    height: 400px;
+    width: 554px;
+    height: 536px;
     overflow: hidden;
   }
   
@@ -76,14 +74,14 @@ header {
     transition: 1s all;
   }
   .slider-content img {
-    width: 800px;
-    height: 390px;
+    width: 750px;
+    height: 546px;
 }
 
   
   .slider-nav {
     position: absolute;
-    width: 100%;
+    width: 73%;
     bottom: -30px;
     margin-top: 10px;
     text-align: center;
@@ -122,3 +120,15 @@ header {
     -webkit-transform: translateX(-3200px);
             transform: translateX(-3200px);
   }
+
+ .presentation{
+  height: 250PX;
+  MARGIN: 70px;
+ }
+
+
+
+
+
+
+  
